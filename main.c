@@ -40,7 +40,7 @@
                     break;
                 case 2:
                     if (i == 0) {
-                        printf("Libreria vuota!\m");
+                        printf("Libreria vuota!\n");
                         break;
                     }
 
